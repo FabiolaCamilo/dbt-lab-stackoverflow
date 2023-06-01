@@ -4,7 +4,7 @@ sources:
   - name: raw
     schema: stackoverflow #Dataset name - BigQuery
     tables:
-      - name: badges
+      - name: badgaes
       - name: posts_answers
       - name: posts_questions
       - name: users
